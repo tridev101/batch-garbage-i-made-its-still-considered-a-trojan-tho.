@@ -1,9 +1,32 @@
-this is a trojan for or vbs bad joke for antiviruses idk why
-t r i p h o s p h e r p u l l u p e r
-t r i p h o s  p h e r p u l l u p e r
-t r i p h o s p h e r p u l l u p e r
-this malware can invert  your screen make message boxes and also do way more stuff move around your mouse, open up random websites, and a bit more i forgot so yeah
-and also this is inspired by batch and vbs garbage stuff on youtube check it out at https://www.youtube.com/watch?v=LGlffYif3Mg
-and yeah basically its inspired by that video and you can mess with it idc so also yeah this is not destructive but it might be bad
-and as you can see it was powershell and batch too because it wouldn't work for the message boxes so shoutout to powershell
-tags, ignore Powershell,Batch,Vbs,Garbage,fake,trojan,vbs.badjoke,inverter,cursor,cursor trail, and more, 
+⚠️ TriphospherPulluper Disclaimer
+
+TriphospherPulluper is a prank script created using Batch, PowerShell, and VBScript.
+
+This project is not real malware, but it mimics some trojan-like behaviors for fun, including:
+
+Displaying message boxes
+
+Moving your mouse cursor
+
+Inverting screen colors
+
+Opening random websites
+
+Spawning windows and other harmless visual effects
+
+❗ Important Notes
+
+Do not run this on your main computer.
+
+Use a virtual machine (VM) or isolated environment to prevent accidental issues.
+
+This project is for educational and entertainment purposes only.
+
+The author is not responsible for any damage caused by misuse.
+
+This script is inspired by prank scripts on YouTube, such as:
+YouTube Example
+
+Tags
+
+prank batch powershell vbs non-destructive visual-effects educational
